@@ -2,7 +2,13 @@
 
 ### Síntese
 
+```
+Neste módulo, mergulhamos nas técnicas e ferramentas práticas de avaliação de segurança, o coração do trabalho de um analista. Aprendemos a diferenciar uma varredura de vulnerabilidades, que serve para identificar falhas conhecidas, de um teste de penetração (pentest), que busca explorar ativamente essas falhas para medir o impacto real de um ataque.
 
+Exploramos os diferentes tipos de pentest, como o Black Box, onde o analista não tem conhecimento prévio do alvo, e vimos as fases de um ataque ético, entendendo a importância da fase de Descoberta (reconhecimento) para coletar informações.
+
+Analisamos também algumas das principais ferramentas do arsenal de um profissional, como o Nmap para mapear redes e o conceito de sniffing para capturar tráfego. Por fim, diferenciamos as tecnologias de automação, entendendo que o SIEM é a grande central de monitoramento e detecção, enquanto o SOAR foca na resposta e automação de ações.
+```
 
 ---
 
