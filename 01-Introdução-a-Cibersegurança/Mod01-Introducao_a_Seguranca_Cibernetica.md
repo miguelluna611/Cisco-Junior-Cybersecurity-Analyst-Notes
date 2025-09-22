@@ -3,7 +3,9 @@
 ### Síntese
 
 ```
-
+Neste módulo inicial, eu aprendi que a Cibersegurança é um esforço contínuo para proteger indivíduos, organizações e governos no mundo digital. Eu entendi a diferença entre minha identidade offline (quem eu sou na vida real) e minha identidade online (como me apresento na internet), e a importância de proteger ambas.
+Vi como meus dados pessoais são valiosos e desejados não apenas por cibercriminosos (que buscam ganho financeiro ou roubo de identidade), mas também por ISPs, anunciantes e plataformas de mídia social, que usam minhas informações para fins comerciais. Também explorei os dados organizacionais, como propriedade intelectual e dados financeiros, e como o Cubo de McCumber nos ajuda a pensar em segurança de forma tridimensional (protegendo a Confidencialidade, Integridade e Disponibilidade dos dados em todos os seus estados: em repouso, em trânsito e em processo).
+Finalmente, eu aprendi a classificar os tipos de invasores pelos "chapéus" (White, Gray e Black Hat) e entendi a diferença entre ameaças internas e externas, além de ter uma introdução ao conceito de guerra cibernética.
 ```
 
 ---
